@@ -1,0 +1,32 @@
+.main {
+  font-family: Monospace;
+  background-color: PapayaWhip;
+  font-weight: bold;
+  margin-left: 30px;
+  text-align: center;
+}
+#first {
+  background-color: teal;
+   border:medium dotted black
+}
+#second{
+ background-color: LightCoral;
+ border: medium solid black;
+ text-align:left;
+}
+#snortle{
+  text-align:left
+}
+#hola{
+  border:thick solid black;
+  background-color:SeaGreen;
+}
+#text1{
+  text-align:left;
+}
+#text2{
+  text-align:left
+}
+#text3{
+  text-align:left;
+}
