@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Paz</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Dec 2018 16:17:25 -0500</pubDate>
+    <lastBuildDate>Sun, 09 Dec 2018 16:17:25 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Kimichi Juice</title>
+        <description>&lt;p&gt;At Union Market, I met Julia Chon, the creator of &lt;a href=&quot;https://kimchijuice.xyz&quot;&gt;Kimchi Juice&lt;/a&gt;. Kimchi Juice is a clothing, homeware and print business emblazoned with cute animals “flipping the bird”. Julia was seventeen when she made her business. A year later, she is taking a gap year to explore her art and compete in mural contests.&lt;/p&gt;
+
+&lt;p&gt;This picture was found on her website.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/dc-trip/</link>
+        <guid isPermaLink="true">http://localhost:4000/dc-trip/</guid>
+        
+        
+        <category>two</category>
+        
+      </item>
+    
+      <item>
+        <title>Technica</title>
+        <description>&lt;p&gt;This year I went to Technica which is the largest all girls coding event in the world. It wasn’t 100% female because there were some male mentors and sponsors. As the wifi wasn’t working, I had little to program with (though I am only a novice, anyways). Scheduled throughout the day were tech talks on a range of topics from exploring tech careers in other fields to machine learning.&lt;/p&gt;
+
+&lt;p&gt;##Chibird&lt;/p&gt;
+
+&lt;p&gt;At around 5pm, an artist techie Jaqueline Chen led a talk about the crossroads of art and technology. Using photoshop and other tools, she created motivating cartoons of cute animals. While she was still a high school student, Jaqueline started a blog under the pseudonym &lt;a href=&quot;http://chibird.com&quot;&gt;chibird&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of my &lt;a href=&quot;http://chibird.com/post/180427105114/you-can-have-a-lazy-day-lazy-cat-grants-it-to&quot;&gt;favorites&lt;/a&gt; was one about a cat who was having a lazy day with the response of “that’s okay.” Her book, &lt;a href=&quot;https://www.amazon.com/Loading-Penguin-Hugs-Heartwarming-Chibird/dp/1449494587&quot;&gt;Loading Penguin hugs&lt;/a&gt;, is only $7.69 and has two sticker sheets in the back!&lt;/p&gt;
+
+&lt;p&gt;This is not my picture.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/technica/</link>
+        <guid isPermaLink="true">http://localhost:4000/technica/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>IKEA Sleepovers</title>
+        <description>&lt;p&gt;IKEA sleepovers are a new dare campaign in which customers attempt to stay overnight at IKEA. The vlog of two Belgian teenagers, titled &lt;a href=&quot;https://www.youtube.com/watch?v=mFLLIngIKV8&quot;&gt;two idiots at night in IKEA&lt;/a&gt;, went viral resulting in many other attempted sleepovers. These sleepovers are illegal, however it is unknown whether any of these intruders were prosecuted. &lt;a href=&quot;https://www.theguardian.com/business/2016/dec/21/stop-holding-sleepovers-in-our-stores-ikea-warns-pranksters&quot;&gt;According to an Ikea UK spokesperson&lt;/a&gt;: “We appreciate that people are interested in Ikea and want to create fun experiences, however the safety and security of our co-workers and customers is our highest priority and that’s why we do not allow sleepovers in our stores.”&lt;/p&gt;
+
+&lt;p&gt;There are some legal store run sleepovers that I am researching.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 May 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/IKEAsleepover/</link>
+        <guid isPermaLink="true">http://localhost:4000/IKEAsleepover/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
