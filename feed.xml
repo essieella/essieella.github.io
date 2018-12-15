@@ -2,15 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sarah Paz</title>
-    <description></description>
+    <description>Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Dec 2018 16:17:25 -0500</pubDate>
-    <lastBuildDate>Sun, 09 Dec 2018 16:17:25 -0500</lastBuildDate>
+    <pubDate>Fri, 14 Dec 2018 20:53:50 -0500</pubDate>
+    <lastBuildDate>Fri, 14 Dec 2018 20:53:50 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Kimichi Juice</title>
+        <title>Curve-stitching</title>
+        <description>&lt;p&gt;I made this image on processing using a for loop. This picture is a screenshot of it. My inspiration was from the National STEM fair in the Washington Convention Center. I picked this based on this &lt;a href=&quot;http://www.ams.org/publicoutreach/curve-stitching&quot;&gt;curve-stitching website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Dec 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/articles/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kimchi Juice</title>
         <description>&lt;p&gt;At Union Market, I met Julia Chon, the creator of &lt;a href=&quot;https://kimchijuice.xyz&quot;&gt;Kimchi Juice&lt;/a&gt;. Kimchi Juice is a clothing, homeware and print business emblazoned with cute animals “flipping the bird”. Julia was seventeen when she made her business. A year later, she is taking a gap year to explore her art and compete in mural contests.&lt;/p&gt;
 
 &lt;p&gt;This picture was found on her website.&lt;/p&gt;
@@ -28,7 +40,7 @@
         <title>Technica</title>
         <description>&lt;p&gt;This year I went to Technica which is the largest all girls coding event in the world. It wasn’t 100% female because there were some male mentors and sponsors. As the wifi wasn’t working, I had little to program with (though I am only a novice, anyways). Scheduled throughout the day were tech talks on a range of topics from exploring tech careers in other fields to machine learning.&lt;/p&gt;
 
-&lt;p&gt;##Chibird&lt;/p&gt;
+&lt;h2 id=&quot;chibird&quot;&gt;Chibird&lt;/h2&gt;
 
 &lt;p&gt;At around 5pm, an artist techie Jaqueline Chen led a talk about the crossroads of art and technology. Using photoshop and other tools, she created motivating cartoons of cute animals. While she was still a high school student, Jaqueline started a blog under the pseudonym &lt;a href=&quot;http://chibird.com&quot;&gt;chibird&lt;/a&gt;.&lt;/p&gt;
 
